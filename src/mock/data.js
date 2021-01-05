@@ -35,8 +35,7 @@ export const heroData = {
 };
 
 export const aboutData = {
-  paragraphOne:
-    'Masjid Al Salām Islāmic Center was established in 2018.',
+  paragraphOne: 'Masjid Al Salām Islāmic Center was established in 2018.',
   paragraphTwo: 'As a service to the Muslim community, Masjid Al Salām Provides the Following:',
   services: [
     {
@@ -75,13 +74,13 @@ export const aboutData = {
 export const donationsData = {
   directDeposit:
     'If you would like your monthly donation amount to be automatically deducted from your bank account, we have a direct-deposit form available that you can fill out. Simply drop by the muṣallá when any of the administration is there and ask for the form so that we can get you set up in shā’ Allah.',
-  etransfer: 'admin@masjidalsalaam.ca',
+  etransfer: 'admin@masjidalsalaam.website',
   expenses: [
     { label: 'Rent', value: 6000 },
     { label: 'Imam', value: 3000 },
     { label: 'Electricity', value: 400 },
     { label: 'Phone/Internet', value: 130 },
-    { label: 'Utilities', value: 1000 },
+    { label: 'Utilities', value: 470 },
   ],
   khutbah:
     'After the Friday sermon, donations for the muṣallá are collected. Sometimes there are baked goods and food that are also being sold for fundraising for the muṣallá. Please donate generously for the sake of Allāh.',
@@ -98,8 +97,8 @@ export const contactInfo = {
     'Feel free to drop by the muṣallá at any time to perform the congregational prayers and to partake in the activities. If you would require help with learning about Islām and wish to speak to one of the members of the administration, please contact us through the website first so that we can schedule an appointment with you at a convenient time in shā’ Allāh.',
   emailButton: 'Email Us',
   mailingList: 'Mailing List',
-  email: 'admin@masjidalsalaam.ca',
-  mapUrl: 'https://goo.gl/maps/14LYnHa7R9sZsQBG7',
+  email: 'admin@masjidalsalaam.website',
+  mapUrl: 'https://goo.gl/maps/ZrGucXfTU39wJgus7',
   telButton: 'Call Us',
   tel: '+15875214857',
   address: '#120-550 Clareview Rd, Edmonton, AB, Canada. T5A 4H2',
@@ -109,15 +108,15 @@ export const footerData = {
   networks: [
     {
       name: 'twitter',
-      url: 'https://twitter.com/MasjidAlSalaam',
+      url: 'https://twitter.com/MasjidAlSalaamIslamicCenter',
     },
     {
       name: 'soundcloud',
-      url: 'https://soundcloud.com/DarAsSahaba',
+      url: 'https://soundcloud.com/MasjidAlSalaam',
     },
     {
       name: 'instagram',
-      url: 'https://instagram.com/DarAsSahaba',
+      url: 'https://instagram.com/MasjidAlSalaamIslamicCenter',
     },
     {
       name: 'facebook',
@@ -125,7 +124,7 @@ export const footerData = {
     },
     {
       name: 'telegram',
-      url: 'https://t.me/DarAsSahaba',
+      url: 'https://t.me/MasjidAlSalaam',
     },
     {
       name: 'youtube',
