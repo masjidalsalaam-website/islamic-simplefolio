@@ -1,9 +1,9 @@
 {
   "name": "islamic-simplefolio",
   "private": true,
-  "homepage": "https://dar-as-sahaba.com",
-  "author": "Dar as-Sahaba",
-  "description": "Dār as-Ṣaḥābah Association",
+  "homepage": "https://masjidalsalaam.website",
+  "author": "Masjid Al-Salaam",
+  "description": "Masjid Al-Salām Islāmic Centre",
   "version": "0.8.0",
   "license": "MIT",
   "contributors": [
@@ -14,10 +14,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ragaeeb/das-js"
+    "url": "https://github.com/masjidalsalaam-website/islamic-simplefolio"
   },
   "bugs": {
-    "url": "https://github.com/ragaeeb/das-js/issues"
+    "url": "https://github.com/masjidalsalaam-website/islamic-simplefolio"
   },
   "scripts": {
     "build": "gatsby build",
