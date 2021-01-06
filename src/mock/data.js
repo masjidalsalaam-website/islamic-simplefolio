@@ -41,39 +41,38 @@ export const aboutData = {
     {
       title: 'Five Daily Ṣalawāt',
       body:
-        'The muṣallá is open to allow Muslims (both brothers and sisters) a location to pray their five daily ṣalawāt.',
+        'The masjid is open to allow Muslims (both brothers and sisters) a location to pray their five daily ṣalawāt.',
     },
     {
       title: 'Ṣalat al-Jumʿuah',
       body:
-        'Every week, salat-ul-Jumʿuah is held at Dār As-Ṣaḥāba (due to limited space, for brothers only), where the khaṭīb deliver the khuṭbah strictly adhering to the Qur’ān & the Sunnah.',
+        'Every week, salat-ul-Jumʿuah is held at Masjid Al-Salaam for brothers and sisters, where the khaṭīb deliver the khuṭbah strictly adhering to the Qur’ān & the Sunnah.',
     },
     {
       title: 'Ṣalat al-Tarawīḥ',
       body:
-        'During the month of Ramaḍān, every evening Ṣalat al-Tarawīḥ is held (due to limited space, for brothers only).',
+        'During the month of Ramaḍān, every evening Ṣalat al-Tarawīḥ is held for both brothers and sisters.',
     },
     {
       title: 'Ṣalat al-ʿĪd',
       body:
-        'For both ʿĪd al-Fiṭr and ʿĪd al-Aḍḥá, Dār As-Ṣaḥāba holds ʿĪd prayers for the community at a neighbouring park, weather permitting, or community centre.',
+        'For both ʿĪd al-Fiṭr and ʿĪd al-Aḍḥá, Masjid Al-Salaam holds ʿĪd prayers for the community at a neighbouring park, weather permitting, or community centre.',
     },
     {
       title: 'Lectures',
       body:
-        'A few knowledgeable brothers remind us of the importance of various facets of our dīn in weekly gatherings. Occasionally, tele-lectures of our esteemed scholars are streamed via the internet at the muṣallá for all to hear.',
+        'The Imām of the masjid does his weekly classes to remind us of the importance of various facets of our dīn in weekly gatherings. Occasionally, tele-lectures of our esteemed scholars are streamed via the internet at the masjid for all to hear.',
     },
     {
-      title: 'Distributing reading and audio/visual materials',
-      body:
-        'To those who are interested about Islām, we have provided copies of the Qur’an with translations in the English and French languages; for non-Arabic speaking Muslims, we have also provided translated copies of the Qur’ān in other languages such as Spanish, Somali, Farsi, Urdu, Pashto, etc. As well, we have provided books and tapes/CDs for people ranging from those interested in Islām to those that are interested in further pursuing Islām academically.',
+      title: 'Qurʾān Classes',
+      body: 'Qurʾān classes are held for both brothers and sisters on the weekend.',
     },
   ],
 };
 
 export const donationsData = {
   directDeposit:
-    'If you would like your monthly donation amount to be automatically deducted from your bank account, we have a direct-deposit form available that you can fill out. Simply drop by the muṣallá when any of the administration is there and ask for the form so that we can get you set up in shā’ Allah.',
+    'If you would like your monthly donation amount to be automatically deducted from your bank account, we have a E-Transfer request form available that you can fill out. Simply drop by the masjid when any of the administration is there and ask for the form so that we can get you set up in shā’ Allah.',
   etransfer: 'admin@masjidalsalaam.website',
   expenses: [
     { label: 'Rent', value: 6000 },
@@ -83,18 +82,18 @@ export const donationsData = {
     { label: 'Utilities', value: 470 },
   ],
   khutbah:
-    'After the Friday sermon, donations for the muṣallá are collected. Sometimes there are baked goods and food that are also being sold for fundraising for the muṣallá. Please donate generously for the sake of Allāh.',
+    'After the Friday sermon, donations for the masjid are collected. Sometimes there are baked goods and food that are also being sold for fundraising for the masjid. Please donate generously for the sake of Allāh.',
   paypal:
     'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M36T4MXQHLUHJ&source=url',
   reminderDawah:
-    'When you participate in online giving, you’re also helping to streamline administrative overhead costs – thus, putting more of your dollars to work in keeping the muṣallá running.',
+    'When you participate in online giving, you’re also helping to streamline administrative overhead costs – thus, putting more of your dollars to work in keeping the masjid running.',
   reminderReward:
     'For as long as the masjid remains open by your donations, you are collecting your reward for every person who is establishing the prayer, for every lesson that is being organized and every Muslim who is learning from the lesson, from every lost youth seeking the truth and changes their life around by way of it. You are collecting your reward for everyone that is affected by your good deeds.',
 };
 
 export const contactInfo = {
   cta:
-    'Feel free to drop by the muṣallá at any time to perform the congregational prayers and to partake in the activities. If you would require help with learning about Islām and wish to speak to one of the members of the administration, please contact us through the website first so that we can schedule an appointment with you at a convenient time in shā’ Allāh.',
+    'Feel free to drop by the masjid at any time to perform the congregational prayers and to partake in the activities. If you would require help with learning about Islām and wish to speak to one of the members of the administration, please contact us through the website first so that we can schedule an appointment with you at a convenient time in shā’ Allāh.',
   emailButton: 'Email Us',
   mailingList: 'Mailing List',
   email: 'admin@masjidalsalaam.website',
@@ -108,7 +107,7 @@ export const footerData = {
   networks: [
     {
       name: 'twitter',
-      url: 'https://twitter.com/MasjidAlSalaamIslamicCenter',
+      url: 'https://twitter.com/masjid_salaam',
     },
     {
       name: 'soundcloud',
@@ -124,7 +123,7 @@ export const footerData = {
     },
     {
       name: 'telegram',
-      url: 'https://t.me/MasjidAlSalaam',
+      url: 'https://t.me/masjid_salaam',
     },
     {
       name: 'youtube',
